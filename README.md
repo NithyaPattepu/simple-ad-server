@@ -11,3 +11,5 @@ Using Advanced Rest Client
 1. Post the Ad using : http://localhost:8080/simpleadserver/ad
 2. Get the Ad using : http://localhost:8080/simpleadserver/{partner-id}
 
+This project can also be tested by using "SimpleAdServerControllerIntegrationTest" class
+
